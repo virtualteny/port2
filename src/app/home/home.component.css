@@ -1,0 +1,109 @@
+.p-profile{
+    background: url(/assets/img/99.jpg);
+    height: 500px;
+    width: 80%;   
+     background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.p-tag{
+    padding: 5px 11px;
+    background: #7d887787;
+    color: #000;
+    font-size: 14px
+}
+.p-des{
+    color: rgb(0, 0, 0);
+    width: 100%;
+    font-size: 22px;
+    padding-left: 30px;
+}
+.h2service{
+    color:rgba(94, 2, 2, 0.616);
+    font-size:20px;
+    padding-left: 30px;
+    
+}
+.mt-4{
+  padding-left: 30px;
+  font-size: 50px;
+  color:rgb(100, 68, 0)
+}
+.education{
+  font-size:20px;
+  color: darkgreen;
+}
+.achmnts{
+  font-size:20px;
+  color: maroon;
+}
+.pi{
+  font-size:20px;
+  color: navy;
+}
+.skills{
+  font-size:20px;
+  color: rgb(48, 2, 26);
+}
+.works{
+  font-size:20px;
+  color: rgb(88, 76, 3);
+}
+.reach{
+  color: rgb(44, 3, 82);
+}
+.des{
+  color: #000;
+}
+
+
+
+
+.fa {
+    padding: 6px;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 0px;
+  }
+ 
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+    
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  /*Instagram*/
+  .fa-instagram {
+    background: #ff0579ab;
+    color: white;
+  }
+  /*Linkedin*/
+  .fa-linkedin {
+    background: #18016d;
+    color: white;
+  }
+  .fa {
+    padding: 12px;
+    font-size: 21px;
+    width: 46px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 190%;
+  }
+  
+ 
